@@ -1,6 +1,9 @@
 # Working with GitHub Actions
 
 ## Task 1: 
+### Prerequisite:
+1. Github Account
+2. Any repository
 ### Steps:
 1. Navigate to Actions. This will display a page "Get started with GitHub Actions".
 2. Scroll down to the section labelled as "Automation".
