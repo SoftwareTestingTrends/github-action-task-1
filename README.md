@@ -1,4 +1,4 @@
-# Work with GitHub Actions
+# Working with GitHub Actions
 
 ## Task 1: 
 ### Steps:
