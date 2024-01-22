@@ -43,7 +43,7 @@ And steps are always executed in order, but they can be dependent on each other.
 
 # Practice Drill:
 1. Create a new action on a GitHub repository & trigger the action manually.
-2. Practive workflow creation with below type of events:
+2. Practice workflow creation with below type of events:
 * push event
 * scheduled event
 * pull-request event, and
