@@ -1,24 +1,24 @@
 name: E2E Workflow
-run-name: Build, Deploy, Test from user 
+run-name: Build, Deploy, Test - from user @${{ github.actor }}
 
-on:
- workflow_dispatch
+on: 
+  workflow_dispatch:
 
 jobs:
- test:
-  runs-on: ubuntu-latest
+  test:
+    runs-on: ubuntu-latest
 
-  steps:
-   - name: Checkout code
-     uses: actions/checkout@v4
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
 
-   - name: Setup Node.js
-     uses: actions/setup-node@v3
-     with:
-      node-version: '20.x'
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20.x'
 
-   - name: Install dependencies
-     run: npm install
+    - name: Install dependencies
+      run: npm install
 
-   - name: Run tests
-     run: npm test     
+    - name: Run tests
+      run: npm test     
