@@ -28,7 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        language: [javascript, python]
+        language: [javascript]
     permissions:
       actions: read
       contents: read
