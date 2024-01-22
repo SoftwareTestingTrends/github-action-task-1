@@ -9,7 +9,7 @@
   - Build Phase:
     - Execute Unit Tests
     - Perform linting checks
-    - Static code analysis
+    - Static code analysis (Security Analysis using CodeQL Bundle)
     - Add a label to the ReadMe file
     
 
