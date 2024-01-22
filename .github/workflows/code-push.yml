@@ -1,4 +1,4 @@
-name: code-push
+name: Workflow on code push to main branch
 
 on:
   push:
