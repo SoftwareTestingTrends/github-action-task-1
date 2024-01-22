@@ -8,7 +8,9 @@
 Set up a GitHub Action to automatically run a workflow on the given schedule, ensuring that unit tests are included in the workflow execution.
 ### Example YAML File:
 * [on-schedule.yml](.github/workflows/on-schedule.yml)
-* Note: The schedule configuration using cron: '0 0 * * *' is a way to specify a recurring time-based trigger for a workflow. The cron syntax follows a pattern of minute, hour, day of the month, month, and day of the week.
+
+**Note:**
+The schedule configuration using cron: '0 0 * * *' is a way to specify a recurring time-based trigger for a workflow. The cron syntax follows a pattern of minute, hour, day of the month, month, and day of the week.
 
 In the provided file, the 0 0 * * * cron expression means:
 
