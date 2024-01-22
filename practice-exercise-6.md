@@ -25,7 +25,7 @@ Set up a GitHub Action to automatically trigger an E2E CI/CD check.
 
     <img width="1146" alt="image" src="https://github.com/SoftwareTestingTrends/github-actions-practice/assets/12689597/6d51fb5f-6fbf-4b0f-bd9e-bc7affea5779">
 
-#### Deploy Phase:
+#### Delivery Phase:
 * Execute cleanup & install
 * Copy artifact to the server
 * Use Github secrets for credentials
