@@ -1,0 +1,14 @@
+{
+  "name": "github-actions-sample-app",
+  "version": "1.0.0",
+  "description": "This is a simple JavaScript application with a GitHub Actions workflow that triggers on different events, including a push event, a scheduled event, a pull request event, and a repository dispatch event. The application is a basic JavaScript function with associated unit tests using Jest.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
