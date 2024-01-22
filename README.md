@@ -10,12 +10,7 @@
 * Exercise 3: [Setup a GitHub Action to activate a workflow on given schedule](practice-exercise-4.md)
 * Exercise 5: [Setup a GitHub Action to activate a workflow on a repository_dispatch event](practice-exercise-5.md)
 * Exercise 6: [Setup an E2E pipeline]()  - In progress
-  - Build Phase:
-    - Execute Unit Tests
-    - Perform linting checks
-    - Static code analysis (Security Analysis using CodeQL Bundle)
-    - Add a label to the ReadMe file
-    
+
 
 
 
