@@ -1,6 +1,6 @@
 # Working with GitHub Actions
 
-## Task 1: 
+## Exercise 1: 
 ### Prerequisite:
 1. Github Account
 2. Any repository
