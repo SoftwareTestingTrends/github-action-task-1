@@ -25,10 +25,15 @@ Set up a GitHub Action to automatically trigger an E2E CI/CD check.
 
     <img width="1146" alt="image" src="https://github.com/SoftwareTestingTrends/github-actions-practice/assets/12689597/6d51fb5f-6fbf-4b0f-bd9e-bc7affea5779">
 
-#### Delivery Phase:
+#### Deploy Phase:
 * Execute cleanup & install
 * Copy artifact to the server
 * Use Github secrets for credentials
+
+#### Test
+* Build the GUI tests
+* Deploy tests & run against your environment
+* Upload test reports
 
 ### Example YAML File:
 * [e2e-pipeline.yml](.github/workflows/e2e-pipeline.yml)
