@@ -1,4 +1,4 @@
-name: PR workflow
+name: On Schedule workflow
 
 on:
   schedule:
