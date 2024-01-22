@@ -1,5 +1,7 @@
 # Working with GitHub Actions
 
+[![E2E Workflow](https://github.com/SoftwareTestingTrends/github-actions-practice/actions/workflows/e2e-pipeline.yml/badge.svg)](https://github.com/SoftwareTestingTrends/github-actions-practice/actions/workflows/e2e-pipeline.yml)
+
 [![On Schedule workflow](https://github.com/SoftwareTestingTrends/github-actions-practice/actions/workflows/on-schedule.yml/badge.svg)](https://github.com/SoftwareTestingTrends/github-actions-practice/actions/workflows/on-schedule.yml)
 
 * Exercise 1: [Set up a GitHub Action for manually initiating a workflow.](practice-exercise-1.md)
