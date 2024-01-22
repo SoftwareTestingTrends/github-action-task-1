@@ -5,6 +5,13 @@
 * Exercise 4: [Setup a GitHub Action to activate a workflow on a PR i.e. a pull-request event](practice-exercise-3.md)
 * Exercise 3: [Setup a GitHub Action to activate a workflow on given schedule](practice-exercise-4.md)
 * Exercise 5: [Setup a GitHub Action to activate a workflow on a repository_dispatch event](practice-exercise-5.md)
+* Exercise 6: [Setup a GitHub Action to activate a complete CI/CD workflow]()  - In progress
+  - Build Phase:
+    - Execute Unit Tests
+    - Perform linting checks
+    - Static code analysis
+    - Add a label to the ReadMe file
+    
 
 
 
