@@ -1,4 +1,4 @@
-name: On repository dispatch:
+name: On repository dispatch
 
 on:
   repository_dispatch:
