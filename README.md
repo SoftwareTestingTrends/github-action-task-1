@@ -10,6 +10,7 @@
 * Exercise 3: [Setup a GitHub Action to activate a workflow on given schedule](practice-exercise-4.md)
 * Exercise 5: [Setup a GitHub Action to activate a workflow on a repository_dispatch event](practice-exercise-5.md)
 * Exercise 6: [Setup an E2E pipeline](practice-exercise-6.md)  - In progress
+* Exercise 7: Build a custom action - To Do.
 
 
 
